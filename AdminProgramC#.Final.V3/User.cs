@@ -1,7 +1,4 @@
-﻿USERCLASS.CS
--------------------------- -
-
-using System;
+﻿using System;
 
 namespace Admin_Program_C_
 {
